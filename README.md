@@ -24,6 +24,6 @@ test cases. Students are not required to test Javas Scanner utility for I/O.
 **NOTE:** The project has been uploaded as submitted. All comments in code comments are a reflection of this to explain actions. The original code before being refactored is supplied here 
 
 This project was developed to used within the Eclipse IDE which has JUnit inbuilt. In order to see the test results a similar environment would need to be used and well as the following steps: [InsuranceProgram.java](https://github.com/RichDaly/Simple_JUnit_Test/blob/main/InsuranceProgram.java).
-1. Download the `src` directory.
+1. Download the [src/ie/atu/dip](https://github.com/RichDaly/Simple_JUnit_Test/tree/main/src/ie/atu/dip) directory.
 2. Open as a Java project in Eclipse (or similar)
 3. Run as a JUnit test.
