@@ -1,6 +1,8 @@
-// This code is almost impossible to write meaningfully test cases against,
-//it need to be refactored into at least two methods.
-
+/**
+ * Oringinal code that was provided for the assignment. Needs to be refactored to be able to write
+ * any meaningful tests.
+ *
+ */
 
 import java.util.Scanner;
 
