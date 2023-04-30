@@ -1,3 +1,7 @@
+/*
+ * Refactoring code to allow to test to occurs. Comments for each method explain changes made.
+ */
+
 package ie.atu.dip;
 
 public class InsuranceProgram {
